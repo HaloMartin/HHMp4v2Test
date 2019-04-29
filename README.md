@@ -1,7 +1,7 @@
 # HHMp4v2Test
 mp4v2库封装
 
->简书地址：
+>简书地址：https://www.jianshu.com/p/5d9ab4ee51d4
 
 #描述
 4个Java Native的接口实现参考的是我做过的iOS端上的C++代码
